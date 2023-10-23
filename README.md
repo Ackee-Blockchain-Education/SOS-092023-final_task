@@ -4,7 +4,7 @@
 </div>
 
 ## Final Task
-As the School of Solana run is slowly nearing its end, the most important task for you is to implement the final dApp. Within this task, you should utilize all your prior experience, as well as all the knowledge you've gained in this course. Lastly, feel free to implement whatever comes to your mind; firstly, it may result in a truly great idea. Secondly, don't worry, we are not planning to steal your project but rather to help you learn and scale!
+As the School of Solana run is slowly nearing its end, the most important task for you is to implement the final dApp. Within this task, you should utilize all your prior experience, as well as all the knowledge you've gained in this course. Lastly, feel free to implement whatever comes to your mind, it may result in a truly great idea!
 
 
 ## Task details
