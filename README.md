@@ -16,7 +16,7 @@ This Task consists of two parts:
 
 
 ## Requirements
-- An Anchor program using a PDA deployed on **Devnet** (obiously **Mainnet** also possible).
+- An Anchor program using a PDA deployed on **Devnet** (obviously **Mainnet** also possible).
 - At least one TypeScript **Test** for each Anchor program instruction. These tests should cover both the happy path and the unhappy path scenarios (unhappy = tests that intentionally trigger errors).
 - A simple **Frontend** deployed using your preferred provider (for more info, check below).
 - A **Readme.md** file with:
