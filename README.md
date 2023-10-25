@@ -83,6 +83,7 @@ This is example workflow, feel free to use your own path !!
 - [Vercel](https://vercel.com)
 - [Solana dApp Scaffold](https://github.com/solana-labs/dapp-scaffold#solana-dapp-scaffold-next)
 - [account macro Constraints](https://docs.rs/anchor-lang/latest/anchor_lang/derive.Accounts.html#constraints)
+- [Metaplex Documentation](https://docs.metaplex.com/)
 - [Super Helpful](https://www.soldev.app/course)
 
 
