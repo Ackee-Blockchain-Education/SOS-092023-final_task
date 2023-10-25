@@ -26,16 +26,26 @@ This Task consists of two parts:
     - Instructions on **How to run the frontend** app locally (this is optional for those who deploy frontend).
 
 ## Ideas
-- **Social app** - Twitter, Instagram, Giphy, Friendtech
-- **Crowdfunding**
-- **Chat** - Dialect
+- **Social app**
+    - Twitter,
+    - Instagram,
+    - Giphy,
+    - Friendtech,
+    - Spotify
+- **Chat** - [Dialect](https://www.dialect.to/)
 - **Blog**
-- **Raffles**
-- **Voting** - Janecek D21 method
-- **Escrow**
-- **Tipping**
-- **DeFi** - Lending, Liquid Staking, data query with Pyth, AMM
-- **Gaming** - Browser Game, Browser Game with use of Metaplex
+- **Voting** - [D21 - Janeček method](https://www.ih21.org/en/guidelines)
+- **DeFi**
+    - Crowdfunding
+    - Raffles
+    - Escrow
+    - Tipping
+    - Lending ([Solend Documentation](https://docs.solend.fi/)),
+    - Liquid Staking ([Marinade Documentation](https://docs.marinade.finance/)),
+    - data query with Pyth ([Pyth Documentation](https://docs.pyth.network/documentation/solana-price-feeds)),
+    - AMM ([Raydium Documentation](https://raydium.gitbook.io/raydium/))
+- **Gaming**
+    - Browser Game ([Gaming on Solana](https://solanacookbook.com/gaming/nfts-in-games.html#token-gating-with-nfts)),
 
 ## Deadline
 The deadline for this task is **Tuesday, November 15th, at 23:59 UTC**.
