@@ -48,7 +48,7 @@ This Task consists of two parts:
     - Browser Game ([Gaming on Solana](https://solanacookbook.com/gaming/nfts-in-games.html#token-gating-with-nfts)),
 
 ## Deadline
-The deadline for this task is **Tuesday, November 15th, at 23:59 UTC**.
+The deadline for this task is **Tuesday, November 14th, at 23:59 UTC**.
 
 ## Submission
 Within this repository, you can find two folders: one meant for the Anchor project, and the second meant for the frontend. Feel free to update this structure if you need to.
