@@ -16,14 +16,14 @@ This Task consists of two parts:
 
 
 ## Requirements
-- An Anchor program using a PDA deployed on Devnet.
-- At least one TypeScript test for each Anchor program instruction. These tests should cover both the happy path and the unhappy path scenarios (unhappy = tests that intentionally trigger errors).
-- A simple frontend deployed using your preferred provider.
-- A Readme.md file with:
-    - A brief description of your project, explaining how it works and its purpose.
-    - If you have successfully deployed the Anchor program and the frontend, provide a link where we can view the results.
-    - Instructions on how to build and test your Anchor program locally.
-    - Instructions on how to run the frontend app locally.
+- An Anchor program using a PDA deployed on **Devnet** (obiously **Mainnet** also possible).
+- At least one TypeScript **Test** for each Anchor program instruction. These tests should cover both the happy path and the unhappy path scenarios (unhappy = tests that intentionally trigger errors).
+- A simple **Frontend** deployed using your preferred provider (for more info, check below).
+- A **Readme.md** file with:
+    - A brief **Description of your project**, explaining how it works and its purpose.
+    - If you have successfully deployed the Anchor program and the frontend, provide a **Link** where we can view the results.
+    - Instructions on **How to build and test** your Anchor program locally.
+    - Instructions on **How to run the frontend** app locally (this is optional for those who deploy frontend).
 
 ## Ideas
 - **Social app** - Twitter, Instagram, Giphy, Friendtech
